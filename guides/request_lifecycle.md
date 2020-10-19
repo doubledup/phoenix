@@ -178,7 +178,7 @@ At this moment, you may be thinking this can be a lot of steps to simply render 
 
   * view  (`Phoenix.View`) - the view handles the structured data from the controller and converts it to a presentation to be shown to users
 
-Let's do a quick recap and how the last three components work together by adding another page.
+Let's do a quick recap of how the last three components work together by adding another page.
 
 ## Another New Page
 
